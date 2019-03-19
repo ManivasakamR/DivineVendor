@@ -1,0 +1,59 @@
+﻿body {
+background-color:transparent !important;
+}
+html {
+background:url("../Images/bg1.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:100%;
+  width:100%;
+}
+.navbar {
+background-color:#212121 !important;
+}
+.nav-link {
+ border: 1px solid !important;
+    border-color:#f50057 !important;
+background-color:#757575 !important;
+color:#eeeeee !important;
+}
+.navbar-brand,.text-primary {
+color:#eeeeee !important;
+}
+.btn-primary {
+    border-color:#f50057 !important;
+    font-size:16px !important;
+    background-color:#757575 !important;
+    color:#eeeeee !important;
+}
+.txtbx{ 
+    color:#eeeeee !important;
+    border: 1px solid !important;
+    border-color:#f50057 !important;    
+    background-color: rgba(117,117,117,0.3) !important;
+    border-radius:5px !important;
+}
+th {
+color:#eeeeee !important;
+background-color:#006064 !important;
+}
+table{
+     width:95% !important; margin-left:5% !important; margin-right:0% !important;
+}
+table,th,td {
+   border-spacing: 5px;
+   border: 1px solid #006064;  
+}
+th, td {
+text-align:center;
+padding:2px;
+min-width:70px !important;
+color:#006064;
+}
+
+.valStyle{
+    color:#f44336 !important; font-size:20px !important; position:absolute !important;
+    margin-left:3px !important;
+}
